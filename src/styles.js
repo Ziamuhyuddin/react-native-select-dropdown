@@ -9,12 +9,13 @@ const styles = StyleSheet.create({
     flexDirection: 'row-reverse',
   },
   dropdownButton: {
+    // flex:1,
     justifyContent: 'space-between',
     alignItems: 'center',
-    backgroundColor: '#EFEFEF',
-    width: width / 2,
-    height: 50,
-    paddingHorizontal: 8,
+    // backgroundColor: '#EFEFEF',
+    // width: width / 2,
+    // height: 50,
+    // paddingHorizontal: 8,
     overflow: 'hidden',
   },
   dropdownButtonText: {
@@ -25,7 +26,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 8,
   },
   dropdownCustomizedButtonParent: {
-    flex: 1,
+    // flex: 1,
     overflow: 'hidden',
   },
   //////////////////////////////////////
